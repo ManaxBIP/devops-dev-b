@@ -9,3 +9,5 @@ dist
 .idea
 .vscode
 .DS_STORE
+front/pnpm-lock.yaml
+back/prisma/migrations/20250220124618_create_all_tables/migration.sql
